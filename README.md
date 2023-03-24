@@ -1,15 +1,9 @@
-Index
-=====
-<!--ts-->
-* [Guia Sistema Operacional](#guia-sistema-operacional)
-* [Guia Desenvolvimento de Sistemas](#guia-desenvolvimento-de-sistemas)
-<!--te-->
+# Windows Server Handbook <img src="assets/220215.png" width="10%" height="10%" align="right" valign="center"/> 
 
----
----
+![learning](https://img.shields.io/badge/WindowsServer-learning-green.svg)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/vitoriape/winserver-handbook&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# Guia Sistema Operacional
-<!--ts-->
+---<!--ts-->
 * [Máquinas Virtuais](#máquinas-virtuais)
   * [Configuração de Rede](#configuração-de-rede)
   * [Instalando Máquinas](#instalando-máquinas)
